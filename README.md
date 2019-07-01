@@ -1,1 +1,1 @@
-Machine Learning by Stanford University on Coursera
+Machine Learning by Andrew Ng(Stanford University) on Coursera
